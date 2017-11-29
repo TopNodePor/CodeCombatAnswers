@@ -1,0 +1,10 @@
+enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+hero.moveRight();
+hero.moveDown();
+hero.moveRight();
+hero.moveUp();
